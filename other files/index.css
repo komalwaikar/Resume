@@ -1,0 +1,153 @@
+#img{
+    border-radius: 45px;   
+    margin-left: 200px;
+    margin-top: 7px;
+}
+.bi{
+    position: relative;
+    left: 250px;
+}
+a
+{
+    color: #2F4054;
+    text-decoration: none;
+    position: relative;
+    left: 1200;     
+}
+
+.nav{
+    height: 150px;
+display: block;
+background-color: #c3edea;
+}
+
+.a1{
+     
+    display: inline;
+color: #007892;
+text-decoration: none;
+font-size: x-large;
+position: relative;
+left: 750px;
+bottom: 50px;
+
+}
+.a2{
+     
+    display: inline;
+    color: #007892;
+    text-decoration: none;
+    font-size: x-large;
+    position: relative;
+    left: 800px;
+    bottom: 50px;
+    
+}
+.a3{
+     
+    display: inline;
+color: #007892;
+text-decoration: none;
+font-size: x-large;
+position: relative;
+left: 830px;
+bottom: 50px;
+
+}
+
+#Header{
+    background-color:#BFE7DF;
+    /* width: 100%; */
+    display: block;
+    
+}
+#Body{
+    background-color:#BFE7DF;
+    display: block;
+}
+#Footer{
+    position: relative;
+    height: 300px;
+color: #007892;
+text-decoration: none;
+font-size: x-large;
+    background-color:#BFE7DF ;
+}
+
+.hr1{
+    border-style: none;
+border-top-style: dotted;
+color: gray;
+border-width: 10px;
+width: 15%;
+border-color: gray;
+
+}
+
+.q {
+    display: inline-block;
+    color: rgb(0, 120, 146);
+    font-size: xx-large;
+    position: relative;
+    
+    
+}
+.i{
+    position: relative;
+    left: 360px;
+    display: inline-block;
+}
+
+
+.h2{
+    display: inline-block;
+    position: relative;
+}
+
+.what{
+    display: inline-block;
+    position: relative;
+    left: 540px;
+}
+ 
+.qu{
+    position:relative;
+    bottom: 170px;
+    
+} 
+
+.devlop{
+    position: relative;
+    left: 400px;
+}
+
+.l{
+    position: relative;
+    left: 150px;
+    bottom: 280px;
+}
+
+.best{
+    position: relative;
+    bottom: 200px;
+}
+
+.bttn{
+    background-color: #007892;
+    height:70px;
+    width: 170px;
+    border-radius: 35px;
+    position: relative;
+}
+
+.linkdin{
+    position: relative;
+    left: 500px;
+    top: 50px;
+}
+
+.hireme{
+    position: relative;
+    left: 550px;
+    top: 50px;
+}
